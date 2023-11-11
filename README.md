@@ -1,2 +1,0 @@
-# RivalBallT
-progetto gioco tcp
